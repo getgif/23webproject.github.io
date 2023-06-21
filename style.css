@@ -37,7 +37,7 @@
   }
   
   .intro_bg{
-    background-image: url("image/chelicon.jpg");
+    background-image: url("./image/chelicon.jpg");
     width: 100%;
     height: 714px;
     background-repeat: no-repeat;
